@@ -1,2 +1,2 @@
 # Statistics_Assignment
-Statistics 1,2,3,4
+This contains assignments of Statistics 1,2,3,4
